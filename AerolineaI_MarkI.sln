@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AerolineaI_MarkI", "AerolineaI_MarkI\AerolineaI_MarkI.csproj", "{FFBF7BBE-3375-4897-9BB5-1117CF09B377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBF7BBE-3375-4897-9BB5-1117CF09B377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBF7BBE-3375-4897-9BB5-1117CF09B377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBF7BBE-3375-4897-9BB5-1117CF09B377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBF7BBE-3375-4897-9BB5-1117CF09B377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811B2C74-7283-44B6-B0A7-E4C5D7C9CB76}
+	EndGlobalSection
+EndGlobal
